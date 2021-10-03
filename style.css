@@ -4,8 +4,16 @@
 		#wrap {
 			background-color: rgb(181, 207, 212); 
 			width:1280px; 
-			height: 5200px; 
+			height: 5220px; 
 			margin: 0 auto;
+		}
+
+		#logo {
+			margin-top: 40px;
+			margin-left: 580px;
+			width: 140px;
+
+			
 		}
 
 
